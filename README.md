@@ -10,7 +10,7 @@
 An E-commerce platform built with a Python backend to handle product management and HTML , CSS and Javascript as frontend .
 
 
-- **Link:** [View Repository](https://github.com/Hussain-Hakimi/SEMESTER-1-PROJECT)
+- **Link:** [See my Project](https://github.com/Hussain-Hakimi/SEMESTER-1-PROJECT)
 
  
  ## Connect with me:

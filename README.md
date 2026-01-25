@@ -12,7 +12,8 @@ An E-commerce platform built with a Python backend to handle product management 
 
 - **Link:** [View Repository](https://github.com/Hussain-Hakimi/SEMESTER-1-PROJECT)
 
-  ## 📫 Connect with me:
+ 
+ ## Connect with me:
 [LinkedIn](https://www.linkedin.com/in/hussain-hakimi) | [Email](mailto:hussain.hakimi216@gmail.com)
 
 

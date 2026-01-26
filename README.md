@@ -2,7 +2,7 @@
 ### Software Engineering Student @ UET Lahore
 **Python | HTML5 | CSS3 | Problem Solving**
 
--  **Current Focus:** Transitioning from procedural Python to **Object-Oriented Programming (OOP)**.
+-  **Current Focus:** Transitioning from procedural Python to **Object-Oriented Programming (OOP)**
 -  **Activity:** Automating workflows and building small-scale scripts to master core logic.
 -  **Education:** 1st Year Software Engineering at University of Engineering and Technology, Lahore.
 -  ![Hussain Hakimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hussain-Hakimi&show_icons=true&theme=radical) <br/>

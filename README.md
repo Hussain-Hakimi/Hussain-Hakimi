@@ -1,4 +1,4 @@
-# 💫Hi there I'm Hussain Hakimi:
+# 💫Hi everyone:
 Software Engineering Student @ UET Lahore<br>Python | HTML5 | CSS3 | Problem Solving<br>Current Focus: Transitioning from procedural Python to Object-Oriented Programming (OOP).<br>Activity: Automating workflows and building small-scale scripts to master core logic.<br>Education: 1st Year Software Engineering at University of Engineering and Technology, Lahore.<br>
 
 

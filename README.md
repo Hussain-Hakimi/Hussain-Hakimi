@@ -1,24 +1,51 @@
-# 💫Hi everyone:
-Software Engineering Student @ UET Lahore<br>Python | HTML5 | CSS3 | Problem Solving<br>Current Focus: Transitioning from procedural Python to Object-Oriented Programming (OOP).<br>Activity: Automating workflows and building small-scale scripts to master core logic.<br>Education: 1st Year Software Engineering at University of Engineering and Technology, Lahore.<br>
+# Hussain Hakimi | Software Engineering Student
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Software%20Engineering%20Student-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/University-UET%20Lahore-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture%20%26%20OOP-success?style=flat-square" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hussain-hakimi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hussain.hakimi216@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api=Hussain-Hakimi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hussain-Hakimi&theme=radical&hide_border=false)<br/>
-
-
-## 🏆 GitHub Trophies
-![](https://github-pro file-trophy.vercel.app/?username=Hussain-Hakimi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hussain-Hakimi&limit=5&theme=radical&combine_all_yearly_contributions=true)
+Engineering robust, scalable software. I prioritize deep algorithmic understanding and system architecture over relying on frameworks and shortcuts.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hussain-Hakimi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚙️ Engineering Focus & Methodology
+* **Current Paradigm:** Transitioning from procedural execution to complex **Object-Oriented Programming (OOP)** in Python and C#.
+* **Algorithmic Rigor:** Currently writing algorithms entirely manually. I operate with IDE automated code completion deactivated to force deep syntax retention and pure logical problem-solving.
+* **Environment Optimization:** Maintaining a modern, command-line-driven local development environment utilizing PowerShell 7 and strict version management (currently operating on Node.js LTS 24.13.0).
+
+### 🛠 Technical Arsenal
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cs,js,html,css,git,github,vscode,powershell,nodejs" />
+  </a>
+</p>
+
+---
+
+---
+
+### 📊 System Analytics
+
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hussain-Hakimi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain-Hakimi&layout=compact&langs_count=5&theme=radical" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hussain-Hakimi&theme=radical" />
+</p>
+
+---
+
+---
+
+### 🤝 Let's Connect
+<p align="left">
+<a href="https://www.linkedin.com/in/hussain-hakimi" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:hussainhakimi216@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=icloud&logoColor=white" /></a>
+</p>
+
+---
+
+

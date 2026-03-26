@@ -15,14 +15,50 @@ Engineering robust, scalable software. I prioritize deep algorithmic understandi
 * **Algorithmic Rigor:** Currently writing algorithms entirely manually. I operate with IDE automated code completion deactivated to force deep syntax retention and pure logical problem-solving.
 * **Environment Optimization:** Maintaining a modern, command-line-driven local development environment utilizing PowerShell 7 and strict version management (currently operating on Node.js LTS 24.13.0).
 
-### 🛠 Technical Arsenal
+---
+
+🛠️ Core Tech Stack
+Languages & Logic
+
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,js,html,css,git,github,vscode,powershell,nodejs" />
-  </a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=py,cs,js,html,css,nodejs&theme=dark" height="50" />
+</a>
+</p>
+
+Databases & Systems
+
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=mysql,mssql,powershell,git&theme=dark" height="50" />
+</a>
+</p>
+
+Development Environment
+
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,github&theme=dark" height="50" />
+</a>
 </p>
 
 ---
+
+### 🤝 Let's Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/hussain-hakimi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@hussain.hakimi216" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://www.credly.com/users/hussain-hakimi" target="_blank">
+    <img src="https://img.shields.io/badge/Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+  </a>
+  <a href="mailto:hussainhakimi216@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
@@ -37,15 +73,8 @@ Engineering robust, scalable software. I prioritize deep algorithmic understandi
 </p>
 
 ---
-
 ---
 
-### 🤝 Let's Connect
-<p align="left">
-<a href="https://www.linkedin.com/in/hussain-hakimi" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:hussainhakimi216@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=icloud&logoColor=white" /></a>
-</p>
 
----
 
 

@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Software%20Engineering%20Student-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/University-UET%20Lahore-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture%20%26%20OOP-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Database system, %20%26%20OOP-success?style=flat-square" />
 </p>
 
 Engineering robust, scalable software. I prioritize deep algorithmic understanding and system architecture over relying on frameworks and shortcuts.

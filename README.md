@@ -1,79 +1,122 @@
-#  Hi there I'm Hussain Hakimi
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Software%20Engineering%20Student-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/University-UET%20Lahore-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Database system, %20%26%20OOP-success?style=flat-square" />
+# Hussain Hakimi
+
+### Frontend Developer · Data Analytics Enthusiast · Software Engineering Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Turning+messy+data+into+clean+dashboards;Building+responsive%2C+scalable+web+apps;Software+Engineering+Student+%40+UET+Lahore" alt="Typing SVG" />
+
+<p>
+  <a href="https://www.linkedin.com/in/hussain-hakimi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2F81F7?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hussainhakimi216@gmail.com"><img src="https://img.shields.io/badge/Email-2F81F7?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.credly.com/users/hussain-hakimi" target="_blank"><img src="https://img.shields.io/badge/Certifications-2F81F7?style=flat-square&logo=credly&logoColor=white" /></a>
 </p>
 
-Engineering robust, scalable software. I prioritize deep algorithmic understanding and system architecture over relying on frameworks and shortcuts.
+</div>
 
----
+<br>
 
-### ⚙️ Engineering Focus & Methodology
-* **Current Paradigm:** Transitioning from procedural execution to complex **Object-Oriented Programming (OOP)** in Python and C#.
-* **Algorithmic Rigor:** Currently writing algorithms entirely manually. I operate with IDE automated code completion deactivated to force deep syntax retention and pure logical problem-solving.
-* **Environment Optimization:** Maintaining a modern, command-line-driven local development environment utilizing PowerShell 7 and strict version management (currently operating on Node.js LTS 24.13.0).
+## 👋 About Me
 
----
+> "I don't just build spreadsheets — I build decision-making engines."
 
-🛠️ Core Tech Stack
-Languages & Logic
+I'm a Software Engineering student at the **University of Engineering and Technology (UET), Lahore** (2025–2029). I started out studying Business Administration, but switched to Software Engineering because I believe software is one of the most powerful tools we have to solve real-world problems.
 
-<p align="left">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,cs,js,html,css,nodejs&theme=dark" height="50" />
-</a>
-</p>
+Today, I focus on **data analytics** and **frontend development** — turning disconnected data into dynamic dashboards, automated reports, and scalable data models, and building clean, responsive web applications from the ground up.
 
-Databases & Systems
+I'm an Associate Developer with a solid foundation in **object-oriented programming (C#)**, **SQL database design**, and **Python**. I'm looking for a role where I can grow into a backend or full-stack developer while contributing from day one.
 
-<p align="left">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=mysql,mssql,powershell,git&theme=dark" height="50" />
-</a>
-</p>
+<br>
 
-Development Environment
+## 🧰 Tech Stack
 
-<p align="left">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,github&theme=dark" height="50" />
-</a>
-</p>
+<table>
+<tr>
+<td valign="top" width="33%">
 
----
+**Languages**
+- C#
+- JavaScript
+- Python
+- SQL
+- HTML5
+- CSS3
 
-### 🤝 Let's Connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/hussain-hakimi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
- 
-  </a>
-  <a href="https://www.credly.com/users/hussain-hakimi" target="_blank">
-    <img src="https://img.shields.io/badge/Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
-  </a>
-  <a href="mailto:hussainhakimi216@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+</td>
+<td valign="top" width="33%">
 
----
+**Database**
+- SQL Server
 
-### 📊 System Analytics
+</td>
+<td valign="top" width="33%">
 
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hussain-Hakimi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain-Hakimi&layout=compact&langs_count=5&theme=radical" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hussain-Hakimi&theme=radical" />
-</p>
+**Tools**
+- Git & GitHub
+- Visual Studio
+- VS Code
+- Excel (dashboards & automation)
 
----
----
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ MH Mega Mall
+**E-Commerce Brand Showcase**
+
+A static, multi-category storefront delivering a premium shopping experience across Electronics, Grocery, and Fashion — with organized product discovery, deal promotions, and a fully responsive layout.
+
+`HTML5` `CSS3`
+
+🔗 [Live Demo](https://mh-mega-mall.vercel.app/) · [View on GitHub](https://github.com/Hussain-Hakimi/SEMESTER-1-PROJECT)
+
+</td>
+<td width="50%" valign="top">
 
 
 
 
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🎓 Education
+
+**Bachelor of Software Engineering**
+University of Engineering and Technology (UET), Lahore · *2025 – 2029*
+
+
+## 📊 Currently Focused On
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Learning-Object%20Oriented%20Programming-2F81F7?style=flat-square" />
+<img src="https://img.shields.io/badge/Learning-SQL%20Database%20Design-2F81F7?style=flat-square" />
+<img src="https://img.shields.io/badge/Building-Frontend%20Projects-2F81F7?style=flat-square" />
+<br>
+<img src="https://img.shields.io/badge/Open%20To-Internships-2F81F7?style=flat-square" />
+<img src="https://img.shields.io/badge/Open%20To-Freelance%20Frontend%20Work-2F81F7?style=flat-square" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🤝 Let's Build Something Together
+
+I'm currently open to internships, freelance frontend projects, and opportunities to grow as a full-stack developer.
+
+<a href="mailto:hussainhakimi216@gmail.com"><img src="https://img.shields.io/badge/Get%20In%20Touch-2F81F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>

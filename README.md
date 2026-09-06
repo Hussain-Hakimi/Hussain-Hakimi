@@ -199,12 +199,12 @@ I'm an **Associate Developer** with a strong base in **C#**, **SQL**, and **Pyth
 <!-- GitHub Stats - Primary + Fallback URLs -->
 <!-- Primary: github-readme-stats.vercel.app -->
 <!-- Fallback: github-readme-stats-git-masterrstaa-rickstaa.vercel.app -->
-<img src="https://github-readme-stats.vercel.app/api?username=Hussain-Hakimi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&count_private=true&v=1" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats-myversion.vercel.app/api?username=Hussain-Hakimi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&count_private=true&v=1" height="180" alt="GitHub Stats" />
 
 <br><br>
 
 <!-- Top Languages - with cache busting -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain-Hakimi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9&langs_count=8&count_private=true&v=1" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats-myversion.vercel.app/api/top-langs/?username=Hussain-Hakimi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9&langs_count=8&count_private=true&v=1" height="180" alt="Top Languages" />
 
 <br><br>
 
